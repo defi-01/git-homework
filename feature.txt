@@ -1,1 +1,2 @@
 version1: Hello from feature-branch
+version2: Hello from feature-branch
