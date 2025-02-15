@@ -4,4 +4,5 @@ version1: Hello from main
 version2: Hello from feature-branch
 version-issue: Hello World!
 
+version-new: Hello from feature-2
 versrion_new: added something new!
